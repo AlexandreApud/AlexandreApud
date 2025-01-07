@@ -1,25 +1,15 @@
-# Bem-vindo ao meu GitHub! 👋
+# 👨‍💻 Bem-vindo ao meu GitHub!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-apud-yamashita-b80409316/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-apud-yamashita-b80409316/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apudalexandre1@gmail.com)
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Olá, sou o **Alexandre Apud**!  
-Sou de **Taboão da Serra**, e atualmente trabalho na área de **TI**.  
-
-💡 Tenho foco em:
-- **Python**
-- **SQL**
-- **Azure**
-- **Power BI**
-- **Figma**
-- **APIs**
-
-
-Estou sempre explorando novas tecnologias e ferramentas para expandir meus conhecimentos.
+Sou o **Alexandre Apud**, um entusiasta de tecnologia de **Taboão da Serra**.  
+Atualmente, trabalho na área de **TI** e estou sempre explorando novas formas de aprimorar minhas habilidades em **Python**, **SQL**, **Azure**, **Power BI**, **Figma** e **APIs**.  
+Estou sempre buscando melhorar e expandir meus conhecimentos em tecnologia.
 
 ---
 
@@ -27,25 +17,26 @@ Estou sempre explorando novas tecnologias e ferramentas para expandir meus conhe
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="50" title="Power BI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" title="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code" />
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="50" title="Power BI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" title="Azure" />
 </div>
 
 ---
 
 ## 📂 O que você encontrará aqui
 
-Este repositório é uma coleção dos meus **projetos** e **experimentos**.  
-Aqui estão alguns exemplos do que você pode explorar:
-- Scripts e automações em **Python** 🐍  
-- Dashboards criados com **Power BI** 📊  
-- Análises de dados com **SQL** e ferramentas de visualização 📈  
+Este repositório contém meus projetos, experimentos e soluções em diferentes áreas de **TI**:
+- **Automação e Scripts em Python** 🐍  
+- **Dashboards Interativos com Power BI** 📊  
+- **Análises de Dados e SQL** 📈  
+
+Explore e sinta-se à vontade para colaborar!
 
 ---
 
-## 📊 Estatísticas e Conquistas
+## 📊 Estatísticas
 
 <div align="center">
   <table>
@@ -62,5 +53,11 @@ Aqui estão alguns exemplos do que você pode explorar:
 
 ---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlexandreApud&color=blue&style=flat&label=Visitas" alt="Contador de Visitas" />
+</div>
+
+---
+
 **Obrigado por visitar meu perfil!**  
-💬 Sinta-se à vontade para entrar em contato comigo ou explorar meus projetos.
+🔧 Explore meus repositórios e não hesite em colaborar ou contribuir!
