@@ -13,8 +13,11 @@ Sou de **Taboão da Serra**, e atualmente trabalho na área de **TI**.
 💡 Tenho foco em:
 - **Python**
 - **SQL**
+- **Azure**
 - **Power BI**
 - **Figma**
+- **APIs**
+
 
 Estou sempre explorando novas tecnologias e ferramentas para expandir meus conhecimentos.
 
@@ -22,12 +25,13 @@ Estou sempre explorando novas tecnologias e ferramentas para expandir meus conhe
 
 ## 🛠️ Linguagens e Ferramentas
 
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=Power-BI&logoColor=black&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=Visual-Studio-Code&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=Microsoft-SQL-Server&logoColor=white&style=for-the-badge)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="50" title="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" title="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma" />
+</div>
 
 ---
 
@@ -35,15 +39,26 @@ Estou sempre explorando novas tecnologias e ferramentas para expandir meus conhe
 
 Este repositório é uma coleção dos meus **projetos** e **experimentos**.  
 Aqui estão alguns exemplos do que você pode explorar:
-- Scripts e automações em **Python** 🐍
-- Dashboards criados com **Power BI** 📊
-- Análises de dados com **SQL** e ferramentas de visualização 📈
+- Scripts e automações em **Python** 🐍  
+- Dashboards criados com **Power BI** 📊  
+- Análises de dados com **SQL** e ferramentas de visualização 📈  
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas e Conquistas
 
-![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=AlexandreApud&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do GitHub" height="170" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreApud&layout=compact&theme=radical&langs_count=6&locale=pt-br" alt="Linguagens mais usadas" height="170" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
